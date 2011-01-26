@@ -63,7 +63,7 @@ If you already have a an element prepared and the cursor is within quotes of the
     <?php
     function mytheme_preprocess_page(&$vars) {
       …
-      $ns_class = ns->[ns->[ns('grid/prefix/suffix/push/pull-N', $page[''], N, $page[''], N, $page[''], N, $page[''], N);]
+      $ns_class = ns->[ns('grid/prefix/suffix/push/pull-N', $page[''], N, $page[''], N, $page[''], N, $page[''], N);]
       …
     }
 
