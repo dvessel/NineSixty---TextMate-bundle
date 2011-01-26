@@ -13,6 +13,8 @@ Or just download the packaged .tar or .zip file, rename it to ninesixty.tmbundle
 
 ## Usage
 
+This bundle functions through tab triggers – Simple keystrokes followed by the tab key.
+
 Within a theme template:
 
     'cc'
