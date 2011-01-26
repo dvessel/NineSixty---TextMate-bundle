@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php print ns('${1:grid/prefix/suffix/push/pull}-${2:N}', \$${3:page['${4:}']}, ${5:N}${6:, \$${7:page['${8:}']}, ${9:N}${10:, \$${11:page['${12:}']}, ${13:N}${14:, \$${15:page['${16:}']}, ${17:N}}}}); ?&gt;</string>
+	<key>name</key>
+	<string>ns in html class</string>
+	<key>scope</key>
+	<string>text.html meta.tag string.quoted</string>
+	<key>tabTrigger</key>
+	<string>ns</string>
+	<key>uuid</key>
+	<string>1514B8F2-0884-4863-AF8A-D55E74A6644D</string>
+</dict>
+</plist>
